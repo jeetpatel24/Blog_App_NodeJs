@@ -1,0 +1,12 @@
+create a folder -> api
+cd api
+yarn init
+yarn add express --save
+yarn add mongoose --save
+yarn add dotenv --save
+yarn add multer --save    //multer library is used to upload files
+
+npm init
+yarn add nodemon     -> nodemon listen to our application
+
+prepare basic index.js and then prepare all the models
